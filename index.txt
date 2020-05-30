@@ -9,11 +9,11 @@
 
 <hl>音樂1</hl>
 
-<audio autoplay="autoply" loop="loop">
+<audio autoplay="autoplay" loop="loop">
 
     <source src="001.mp3"type="audio/mp3">
 
- your browser does not support the audio element.
+ Your browser does not support the audio element.
 </audio>
 
 
